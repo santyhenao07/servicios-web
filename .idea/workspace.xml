@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ed45db8-31ec-4498-b02f-84e2f51f02d4" name="Changes" comment="hola" />
+    <list default="true" id="9ed45db8-31ec-4498-b02f-84e2f51f02d4" name="Changes" comment="laboratorio clase">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,15 +15,86 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="clase-2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;santyhenao07&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/santyhenao07/servicios-web&quot;,
+    &quot;accountId&quot;: &quot;e1c659f3-63e7-4de5-b060-abdecbca8155&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.6877748857611592" />
+      <entry key="MS500" value="2.0111768442267373" />
+      <entry key="S2" value="2.667656778706906" />
+      <entry key="S5" value="3.4605222871349715" />
+      <entry key="S10" value="4.04662953519345" />
+      <entry key="S30" value="4.637110985016998" />
+      <entry key="S60" value="5.059901118998988" />
+      <entry key="M2" value="6.229364917821428" />
+      <entry key="M5" value="8.557139798872033" />
+      <entry key="M10" value="9.997050993834314" />
+      <entry key="M15" value="10.592597424356976" />
+      <entry key="M30" value="11.257513954505184" />
+      <entry key="H1" value="11.618511592604058" />
+      <entry key="H2" value="11.806622383652023" />
+      <entry key="H4" value="11.902643607655056" />
+      <entry key="D1" value="11.983680420508403" />
+      <entry key="W1" value="11.997666330933248" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3475287056869023" />
+      <entry key="MS500" value="1.9307873184377722" />
+      <entry key="S2" value="2.645549180264143" />
+      <entry key="S5" value="3.450707811819985" />
+      <entry key="S10" value="4.0413683903577375" />
+      <entry key="S30" value="4.635240436990202" />
+      <entry key="S60" value="5.058915963098395" />
+      <entry key="M2" value="6.228788375378276" />
+      <entry key="M5" value="8.556835996804477" />
+      <entry key="M10" value="9.996875492096887" />
+      <entry key="M15" value="10.592473818307624" />
+      <entry key="M30" value="11.257448435853473" />
+      <entry key="H1" value="11.618477818847376" />
+      <entry key="H2" value="11.806605231710831" />
+      <entry key="H4" value="11.902634963936327" />
+      <entry key="D1" value="11.98367897035091" />
+      <entry key="W1" value="11.997666123532627" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3K6SMcAVIVfLUpGK4kx1II11XA4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,7 +108,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "clase-2",
+    "git-widget-placeholder": "clase-3",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/Santy/OneDrive/Desktop/Aplicaciones2",
     "node.js.detected.package.eslint": "true",
@@ -46,6 +119,11 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Santy\OneDrive\Desktop\Aplicaciones2" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,7 +138,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790876478270</updated>
-      <workItem from="1790876479306" duration="338000" />
+      <workItem from="1790876479306" duration="689000" />
+      <workItem from="1790909057593" duration="844000" />
     </task>
     <task id="LOCAL-00001" summary="hola">
       <option name="closed" value="true" />
@@ -70,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790876557418</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="laboratorio clase">
+      <option name="closed" value="true" />
+      <created>1790876900764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790876900764</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,7 +176,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hola" />
-    <option name="LAST_COMMIT_MESSAGE" value="hola" />
+    <MESSAGE value="laboratorio clase" />
+    <option name="LAST_COMMIT_MESSAGE" value="laboratorio clase" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
