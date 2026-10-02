@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ed45db8-31ec-4498-b02f-84e2f51f02d4" name="Changes" comment="laboratorio clase 3" />
+    <list default="true" id="9ed45db8-31ec-4498-b02f-84e2f51f02d4" name="Changes" comment="laboratorio clase 4">
+      <change afterPath="$PROJECT_DIR$/clase5/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase5/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="clase-2" />
+        <entry key="$PROJECT_DIR$" value="clase-4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,18 +41,18 @@
       <entry key="S2" value="1.0" />
       <entry key="S5" value="1.0" />
       <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0000000075606614" />
-      <entry key="S60" value="1.0002043140246937" />
-      <entry key="M2" value="1.03958419771629" />
-      <entry key="M5" value="2.1312532943952" />
-      <entry key="M10" value="4.63485861093479" />
-      <entry key="M15" value="6.396094462078107" />
-      <entry key="M30" value="9.034910291055246" />
-      <entry key="H1" value="10.815665834373938" />
-      <entry key="H2" value="11.852013061486385" />
-      <entry key="H4" value="12.411316403974812" />
-      <entry key="D1" value="12.89978016425901" />
-      <entry key="W1" value="12.985630429441104" />
+      <entry key="S30" value="1.000000000000245" />
+      <entry key="S60" value="1.0000005424362943" />
+      <entry key="M2" value="1.001037903273286" />
+      <entry key="M5" value="1.1450352301641438" />
+      <entry key="M10" value="2.133494703919345" />
+      <entry key="M15" value="3.551704965216927" />
+      <entry key="M30" value="7.179711824233788" />
+      <entry key="H1" value="10.867639118908448" />
+      <entry key="H2" value="13.542335679330222" />
+      <entry key="H4" value="15.159828932787859" />
+      <entry key="D1" value="16.676542038302138" />
+      <entry key="W1" value="16.953363095751826" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -70,23 +74,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9330329915368074" />
-      <entry key="MS500" value="0.9862327044933592" />
-      <entry key="S2" value="0.9965402628278678" />
-      <entry key="S5" value="0.9986146661010289" />
-      <entry key="S10" value="0.9993070929904525" />
-      <entry key="S30" value="0.9997689851872033" />
-      <entry key="S60" value="1.000088756387638" />
-      <entry key="M2" value="1.0395227735084147" />
-      <entry key="M5" value="2.131190027143607" />
-      <entry key="M10" value="4.634783247330391" />
-      <entry key="M15" value="6.39602379292144" />
-      <entry key="M30" value="9.03485967712384" />
-      <entry key="H1" value="10.81563537588792" />
-      <entry key="H2" value="11.851996333639464" />
-      <entry key="H4" value="12.411307635706587" />
-      <entry key="D1" value="12.899778644029007" />
-      <entry key="W1" value="12.985630210787777" />
+      <entry key="MS100" value="0.9592641193252643" />
+      <entry key="MS500" value="0.9917167307382933" />
+      <entry key="S2" value="0.9979227189990506" />
+      <entry key="S5" value="0.999168569213607" />
+      <entry key="S10" value="0.9995841981612189" />
+      <entry key="S30" value="0.9998613801727492" />
+      <entry key="S60" value="0.9999312300880188" />
+      <entry key="M2" value="1.0010032122721313" />
+      <entry key="M5" value="1.1450188665568297" />
+      <entry key="M10" value="2.133474627065333" />
+      <entry key="M15" value="3.5516784006934996" />
+      <entry key="M30" value="7.179680400820245" />
+      <entry key="H1" value="10.867613822535631" />
+      <entry key="H2" value="13.542319498070711" />
+      <entry key="H4" value="15.159819765866638" />
+      <entry key="D1" value="16.67654034154397" />
+      <entry key="W1" value="16.953362848943268" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -106,7 +110,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "clase-3",
+    "git-widget-placeholder": "clase-5",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/Santy/OneDrive/Desktop/Aplicaciones2",
     "node.js.detected.package.eslint": "true",
@@ -137,7 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1790876478270</updated>
       <workItem from="1790876479306" duration="689000" />
-      <workItem from="1790909057593" duration="1231000" />
+      <workItem from="1790909057593" duration="2965000" />
     </task>
     <task id="LOCAL-00001" summary="hola">
       <option name="closed" value="true" />
@@ -163,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790910077955</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="laboratorio clase 4">
+      <option name="closed" value="true" />
+      <created>1790910820993</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1790910820993</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +186,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="clase-5" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -184,7 +208,8 @@
     <MESSAGE value="hola" />
     <MESSAGE value="laboratorio clase" />
     <MESSAGE value="laboratorio clase 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="laboratorio clase 3" />
+    <MESSAGE value="laboratorio clase 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="laboratorio clase 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
