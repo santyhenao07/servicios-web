@@ -4,25 +4,17 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ed45db8-31ec-4498-b02f-84e2f51f02d4" name="Changes" comment="laboratorio clase  5 fastApi">
-      <change afterPath="$PROJECT_DIR$/clase-7/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase-7/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase-7/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase-7/api/estudiantes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase-7/api/medicion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase-7/crud/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase-7/crud/estudiante.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase-7/crud/medicion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase-7/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase-7/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase-7/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase-7/models/estudiante.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase-7/models/medicion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase-7/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase-7/schemas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase-7/schemas/estudiante.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase-7/schemas/medicion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Aplicaciones2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Aplicaciones2.iml" afterDir="false" />
+    <list default="true" id="9ed45db8-31ec-4498-b02f-84e2f51f02d4" name="Changes" comment="laboratorio clase  7 Mediciones">
+      <change afterPath="$PROJECT_DIR$/clase-8/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase-8/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase-8/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase-8/backend/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase-8/backend/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase-8/backend/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase-8/backend/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase-8/backend/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase-8/backend/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase-8/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="59" />
+    <option name="cachedIndexableFilesCount" value="51" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="clase-5" />
+        <entry key="$PROJECT_DIR$" value="clase-7" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,61 +58,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
+      <entry key="MS100" value="2.4363234966580335E-18" />
+      <entry key="MS500" value="3.0015603255291316E-4" />
+      <entry key="S2" value="0.13446047988305967" />
+      <entry key="S5" value="0.5724082463323007" />
+      <entry key="S10" value="1.2651533110504687" />
+      <entry key="S30" value="2.88996645662373" />
+      <entry key="S60" value="3.7566468892826927" />
+      <entry key="M2" value="4.491202129547121" />
+      <entry key="M5" value="7.096854784303427" />
+      <entry key="M10" value="10.810881691633837" />
+      <entry key="M15" value="13.469512190126064" />
+      <entry key="M30" value="19.180695565447163" />
+      <entry key="H1" value="27.920104774264058" />
+      <entry key="H2" value="45.85274136241576" />
+      <entry key="H4" value="72.50881384165693" />
+      <entry key="D1" value="121.77700729112703" />
+      <entry key="W1" value="134.67812229391748" />
+    </decayedCancelled>
+    <decayedSelected>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
       <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000007360703" />
-      <entry key="S10" value="1.0000374495232902" />
-      <entry key="S30" value="1.0528108811523513" />
-      <entry key="S60" value="1.3258617004731599" />
-      <entry key="M2" value="1.8764637047389183" />
-      <entry key="M5" value="3.6615689267593643" />
-      <entry key="M10" value="6.502162641528445" />
-      <entry key="M15" value="8.528381155304288" />
-      <entry key="M30" value="12.281887552568575" />
-      <entry key="H1" value="19.494125173031527" />
-      <entry key="H2" value="37.309805536684784" />
-      <entry key="H4" value="62.51264869809419" />
-      <entry key="D1" value="105.39677957831141" />
-      <entry key="W1" value="116.09329054013553" />
-    </decayedCancelled>
-    <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="4.40573094661047E-99" />
-      <entry key="S5" value="4.54576717931154E-40" />
-      <entry key="S10" value="2.1320804998115615E-20" />
-      <entry key="S30" value="2.7825707240673296E-7" />
-      <entry key="S60" value="5.873412842094062E-4" />
-      <entry key="M2" value="0.0397266775682246" />
-      <entry key="M5" value="0.7375930366775716" />
-      <entry key="M10" value="2.1577657058427064" />
-      <entry key="M15" value="3.1486484174480363" />
-      <entry key="M30" value="4.7321823053700856" />
-      <entry key="H1" value="6.096356694863574" />
-      <entry key="H2" value="7.207951330939854" />
-      <entry key="H4" value="7.985606050305071" />
-      <entry key="D1" value="8.810466909159723" />
-      <entry key="W1" value="8.972359229386702" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0000000009862644" />
+      <entry key="M5" value="1.000669547304304" />
+      <entry key="M10" value="1.0650109504356027" />
+      <entry key="M15" value="1.3048683371589993" />
+      <entry key="M30" value="2.472500814181441" />
+      <entry key="H1" value="4.400692844378886" />
+      <entry key="H2" value="6.3834460437426115" />
+      <entry key="H4" value="7.901319616859087" />
+      <entry key="D1" value="9.59876937397111" />
+      <entry key="W1" value="9.941239067792196" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9794202975869268" />
-      <entry key="MS500" value="0.9958497530944581" />
-      <entry key="S2" value="0.998960819551523" />
-      <entry key="S5" value="0.9995841988922938" />
-      <entry key="S10" value="0.9998294023025502" />
-      <entry key="S30" value="1.0526840113440212" />
-      <entry key="S60" value="1.3261715644911813" />
-      <entry key="M2" value="1.9137657840119924" />
-      <entry key="M5" value="4.383615967993719" />
-      <entry key="M10" value="8.63787955735301" />
-      <entry key="M15" value="11.655787959046423" />
-      <entry key="M30" value="16.998148332712482" />
-      <entry key="H1" value="25.580017310249122" />
-      <entry key="H2" value="44.511383899665155" />
-      <entry key="H4" value="70.49463858450429" />
-      <entry key="D1" value="114.20656366439341" />
-      <entry key="W1" value="125.06554990821239" />
+      <entry key="MS100" value="1.3315805531061787E-12" />
+      <entry key="MS500" value="0.004514231460404631" />
+      <entry key="S2" value="0.38665603939959264" />
+      <entry key="S5" value="1.0969733081225572" />
+      <entry key="S10" value="1.919993292532604" />
+      <entry key="S30" value="3.7143606285420057" />
+      <entry key="S60" value="4.656349655695328" />
+      <entry key="M2" value="5.437240945966202" />
+      <entry key="M5" value="8.074000036621728" />
+      <entry key="M10" value="11.86247130003808" />
+      <entry key="M15" value="14.763439111465932" />
+      <entry key="M30" value="21.643544183169645" />
+      <entry key="H1" value="32.31253132720159" />
+      <entry key="H2" value="52.23019073352597" />
+      <entry key="H4" value="80.40638393873002" />
+      <entry key="D1" value="131.3750053356496" />
+      <entry key="W1" value="144.61924683786577" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -135,34 +127,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.Doctests in url.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.database.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.probar_mediciones.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;clase-7&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Santy/OneDrive/Desktop/Aplicaciones2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Doctests in url.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.database.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.probar_mediciones.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "clase-8",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Santy/OneDrive/Documentos/Aplicaciones2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Santy\OneDrive\Documentos\Aplicaciones2" />
       <recent name="C:\Users\Santy\OneDrive\Desktop\Aplicaciones2" />
     </key>
   </component>
@@ -185,7 +179,12 @@
       <workItem from="1791047371265" duration="13166000" />
       <workItem from="1791065856855" duration="899000" />
       <workItem from="1791067100741" duration="341000" />
-      <workItem from="1791068199821" duration="4133000" />
+      <workItem from="1791068199821" duration="4842000" />
+      <workItem from="1791673003264" duration="45000" />
+      <workItem from="1791676917540" duration="54000" />
+      <workItem from="1791847831818" duration="27000" />
+      <workItem from="1791848010565" duration="175000" />
+      <workItem from="1792626182832" duration="2169000" />
     </task>
     <task id="LOCAL-00001" summary="hola">
       <option name="closed" value="true" />
@@ -227,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790912080863</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="laboratorio clase  7 Mediciones">
+      <option name="closed" value="true" />
+      <created>1791073337958</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1791073337958</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +291,8 @@
     <MESSAGE value="laboratorio clase 3" />
     <MESSAGE value="laboratorio clase 4" />
     <MESSAGE value="laboratorio clase  5 fastApi" />
-    <option name="LAST_COMMIT_MESSAGE" value="laboratorio clase  5 fastApi" />
+    <MESSAGE value="laboratorio clase  7 Mediciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="laboratorio clase  7 Mediciones" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
